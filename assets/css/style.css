@@ -9,4 +9,20 @@
 body {
     font-family: Cinzel, sans-serif;
     font-weight: 300;
+    color: black;
+}
+
+/* Headings and Logo */ 
+
+h1, 
+h2 {
+    font-family: Lato, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: black;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
 }
