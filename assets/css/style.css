@@ -8,7 +8,7 @@
 
 body {
     font-family: Cinzel, sans-serif;
-    font-weight: 300;
+    font-weight: 280;
     color: black;
 }
 
@@ -16,7 +16,7 @@ body {
 
 h1, 
 h2 {
-    font-family: Lato, sans-serif;
+    font-family: Cinzel, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
     color: black;
@@ -25,4 +25,36 @@ h2 {
 #logo {
     float: left;
     font-size: 300%;
+}
+
+/* Navigation links */
+
+#menu {
+    font-size: 125%;
+    letter-spacing: 3px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+    
+}
+
+#menu a:hover {
+    border-bottom: 1px solid gold;
+}
+
+.active {
+    border-bottom: 1px solid gold;
 }
