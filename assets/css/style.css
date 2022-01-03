@@ -14,8 +14,9 @@ body {
 
 /* Headings and Logo */ 
 
-h1, 
-h2 {
+h1,
+h2,
+h3 {
     font-family: Cinzel, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -58,3 +59,15 @@ h2 {
 .active {
     border-bottom: 1px solid gold;
 }
+
+/* Background Image */
+
+#mobile-image {
+    height: 800px;
+    width: 100%;
+    background: url('../images/backround\ castle.png') no-repeat;
+    background-position: center center;
+    background-size: 103%;
+}
+
+/* Main text section two*/
