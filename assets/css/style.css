@@ -70,4 +70,16 @@ h3 {
     background-size: 103%;
 }
 
-/* Main text section two*/
+/* Main text section two */
+
+#main-text {
+    color: black;
+    text-align: center;
+}
+
+#main-text h2 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+/* button section two*/
