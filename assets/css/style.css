@@ -120,7 +120,27 @@ h3 {
 
 /* Castles */
 
-.photos {
+.photo-text-box{
+	width: 50%;
+	margin: 1rem 0;
+	display: inline-block;
+    margin: 10% 30% 0 30%;
+    text-align: center;
+    
+}
+
+.photo-text-box-two {
+	width: 50%;
+	margin: 1rem 0;
+	display: inline-block;
+    margin: 10% 30% 0% 30%;
+    text-align: center;
+    
+}
+
+
+
+/*.photos {
     clear: both;
     margin: 10px;
     margin-bottom: 10px;
@@ -133,5 +153,11 @@ h3 {
 
 .text-right {
     text-align: right;
-    text-align: top;
+    background-color: green;
+}
+
+.block {
+    display: block;
+    margin: 30px 30px 30px 30px;
+    inline-size: auto;
 }
