@@ -124,7 +124,7 @@ h3 {
 	width: 50%;
 	margin: 1rem 0;
 	display: inline-block;
-    margin: 10% 30% 0 30%;
+    margin: 10% 25% 0 25%;
     text-align: center;
     
 }
@@ -133,9 +133,18 @@ h3 {
 	width: 50%;
 	margin: 1rem 0;
 	display: inline-block;
-    margin: 10% 30% 0% 30%;
+    margin: 10% 25% 0% 25%;
     text-align: center;
     
+}
+
+h2 {
+    margin-top: 3%;
+}
+
+li {
+    margin-top: 1%;
+    text-align: center;
 }
 
 
