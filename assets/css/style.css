@@ -156,6 +156,7 @@ div a:hover {
 
 img {
     opacity: 0.7;
+    display: inline-block;
   }
   
   img:hover {
