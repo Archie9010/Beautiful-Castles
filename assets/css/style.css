@@ -112,29 +112,6 @@ h3 {
     border-radius: 10%;
 } 
 
-/* footer */
-
-footer {
-    height: 150px;
-    border: gold solid 1px;
-    margin-top: 10%;
-}
-
-.social-networks {
-    text-align: center;
-}
-
-.social-networks > li {
-    display: inline;
-}
-
-.social-networks i {
-    font-size: 160%;
-    margin: 1px;
-    padding: 5%;
-    color: black;
-}
-
 /* Castles */
 
 .photo-text-box-two {
@@ -179,4 +156,71 @@ img {
     opacity: 1.0;
   }
 
-/* contact section */
+/* contact section signup */
+
+.signup-form {
+    margin: 40% 0% 30% 30%;
+    color: rgb(0, 0, 0);
+    background-color: rgba(224, 207, 57, 0.514);
+    max-width: 600px;
+    padding: 70px;
+}
+
+.text-input {
+    color: #000000;
+    width: 100%;
+    height: 25px;
+    margin: 1px solid #d8ce3b;
+    border-radius: 2px;
+    
+}
+
+.text-input:hover {
+    border-color: #a01515;
+}
+
+ .signup-form h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
+.join-button {
+     margin-top: 20px;
+     border-radius: 2px;
+     padding: 15px 32px 15px 32px;
+     text-align: center;
+     font-size: 100%;
+     background-color: #f16c6b;
+     color: #fafafa;
+     display: block;
+ }
+ 
+ .join-button:hover {
+     color: #f16c6b;
+     background-color: #fafafa;
+ }
+
+
+/* footer */
+
+footer {
+    height: 150px;
+    border: gold solid 1px;
+    margin-top: 10%;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1px;
+    padding: 5%;
+    color: black;
+}
+
