@@ -10,11 +10,15 @@ body {
     font-family: Cinzel, sans-serif;
     font-weight: 280;
     color: black;
-    background-image: url(../images/marble-1006628.jpg);
+    background-image: url(../images/background.jpg);
     background-size: auto;
     background-attachment: fixed;
     background-repeat: no-repeat;
     
+}
+
+#castles {
+    background: none;
 }
 
 /* Headings and Logo */ 
@@ -31,14 +35,13 @@ h3 {
 
 #logo {
     float: left;
-    font-size: 300%;
     margin-left: 20px;
 }
 
 /* Navigation links */
 
 #menu {
-    font-size: 125%;
+    font-size: 1.2rem;
     letter-spacing: 3px;
 }
 
@@ -66,10 +69,10 @@ h3 {
 
 /* Background Image */
 
-#mobile-image {
+#background-castle {
     height: 800px;
     width: 100%;
-    background: url('../images/backround\ castle.png') no-repeat;
+    background: url('../images/backround-castle.png') no-repeat;
     background-position: center center;
     background-size: 103%;
 }
@@ -90,7 +93,7 @@ h3 {
 
 
 #button {
-    margin-top: 30px;
+    margin-top: 20px;
     color: black;
     text-align: center;
 }
@@ -125,7 +128,7 @@ h3 {
 
 .photo-text-box-two {
 	width: 50%;
-	margin: 1rem 0;
+	margin-top: 20%;
 	display: inline-block;
     margin: 10% 25% 0% 25%;
     text-align: center;
@@ -137,8 +140,10 @@ h2 {
 }
 
 p {
-    margin-top: 1%;
+    margin-top: 5%;
     text-align: center;
+    text-align: justify;
+    margin-bottom: 5%;
 }
 
 div p:hover {
