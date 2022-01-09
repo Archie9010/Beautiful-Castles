@@ -150,7 +150,7 @@ div a:hover {
     border-bottom: 1px solid gold;
  }
 
-img {
+#img {
     opacity: 0.7;
     display: inline-block;  
     border-radius: 10px;
@@ -236,7 +236,7 @@ footer {
          height: 1200px;
          margin: 0 auto;
      }
-     #photo-text-box-two {
+     #img {
          clear: both;
          width: 100%;
          float: center;
@@ -265,8 +265,7 @@ footer {
       max-width: 90%;
       width: auto;
       padding: 0;
-      margin-left: 5%;
-      margin-right: 15%;
+      margin: 0;
   }
   #h2, #p {
     margin: 0 auto;
@@ -277,12 +276,8 @@ footer {
 
 /*For medium screens sizes from 800px and down */
 
-@media screen and (max-width: 800px) {
-    .img {
-        max-width: 100%;
-        width: 640px;
-        padding: 0;
-        margin-left: 5%;
-        margin-right: 5%;
-}
-}
+@media only screen and (max-width: 800px) {
+    img {
+      width: 135%;
+    }
+  }
