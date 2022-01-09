@@ -229,3 +229,60 @@ footer {
     text-align: center;
     margin-bottom: 10px;
 }
+/*For medium screens sizes from 1200px and down */
+@media screen and (max-width: 1200px) {
+     #background-castle {
+         width: 100%;
+         height: 1200px;
+         margin: 0 auto;
+     }
+     #photo-text-box-two {
+         clear: both;
+         width: 100%;
+         float: center;
+         padding: 0;
+     }
+     #h2, #p {
+         float: center;
+         margin: 0 auto;
+         padding: 0;
+     }
+     #hr {
+         display: none;
+     }
+}
+/*For medium screens sizes from 950px and down */
+
+@media screen and (max-width: 950px) {
+#menu {
+    clear: left;
+    float: left;
+    margin-bottom: 20px;
+    line-height: 25px;
+  }
+
+  .img {
+      max-width: 90%;
+      width: auto;
+      padding: 0;
+      margin-left: 5%;
+      margin-right: 15%;
+  }
+  #h2, #p {
+    margin: 0 auto;
+    padding: 0;
+    text-align: center center;
+  }
+}
+
+/*For medium screens sizes from 800px and down */
+
+@media screen and (max-width: 800px) {
+    .img {
+        max-width: 100%;
+        width: 640px;
+        padding: 0;
+        margin-left: 5%;
+        margin-right: 5%;
+}
+}
