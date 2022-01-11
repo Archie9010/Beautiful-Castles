@@ -161,7 +161,7 @@ div a:hover {
 /* contact section signup */
 
 .signup-form {
-    margin: 20% 0% 20% 30%;
+    margin: 30% 0% 20% 20%;
     color: rgb(0, 0, 0);
     background-color: rgba(224, 207, 57, 0.514);
     max-width: 600px;
@@ -311,5 +311,8 @@ footer {
     div p {
       font-size: 21px;
     }
+
+    #signup-form {
+        padding: center;
 }
-  
+}
