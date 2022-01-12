@@ -51,6 +51,7 @@ h3 {
 
 #menu, #logo {
     line-height: 85px;
+    margin-top: 10px;
 }
 
 
@@ -58,6 +59,7 @@ h3 {
     float: right;
     list-style-type: none;
     margin-right: 30px;
+    margin-top: 10px;
 }
 
 #menu a {
@@ -67,10 +69,6 @@ h3 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid gold;
-}
-
-#active {
     border-bottom: 1px solid gold;
 }
 
@@ -125,6 +123,7 @@ button a:hover {
 	margin-top: 20%;
 	display: inline-block;
     margin: 10% 25% 0% 25%;
+    text-align: center;
 }
 
 h2 {
@@ -158,6 +157,10 @@ div a:hover {
     box-shadow: 10px 10px 5px grey;
   }
   
+div p {
+    text-align: center;
+}
+
 /* contact section signup */
 
 .signup-form {
@@ -236,11 +239,9 @@ footer {
      #img {
          clear: both;
          width: 100%;
-         float: center;
          padding: 0;
      }
      #h2, #p {
-         float: center;
          margin: 0 auto;
          padding: 0;
      }
@@ -248,7 +249,6 @@ footer {
          display: none;
      }
      #signup-form {
-         float: center;
          margin-top: 25%;
          margin-bottom: 25%;
      }
@@ -267,8 +267,7 @@ footer {
     float: left;
     margin-bottom: 20px;
     margin-left: 25px;
-    line-height: 25px;
-    
+    line-height: 25px; 
   }
 
   .img {
@@ -310,9 +309,5 @@ footer {
   @media only screen and (min-width: 601px) {
     div p {
       font-size: 21px;
-    }
-
-    #signup-form {
-        padding: center;
-}
+  }
 }
