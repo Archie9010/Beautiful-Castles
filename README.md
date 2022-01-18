@@ -1,0 +1,3 @@
+# Beautiful Castles 
+
+Beautiful Castles website is designed for people who are loooking for informations about Castles around Europe. Webiste contains pictures and shor description of the Castles and historical facts also I've placed reflinks to the Wikipedia under each description for mor information for potetial readers. The site will be targeted toward tourists who are looking for more information regards pleaces that they will be visiting. 
