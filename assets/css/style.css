@@ -126,22 +126,6 @@ button a:hover {
     text-align: center;
 }
 
-h2 {
-    margin-top: inherit;
-    text-align: center;
-    text-align: justify;
-    display: contents;
-    margin-bottom: 5%;
-}
-
-#decription-text {
-    text-align: center;
-    text-decoration: none;
-    margin-bottom: revert;
-    margin-top: 5%;
-    display: block;
- }
-
 div a:hover {
     border-bottom: 1px solid gold;
  }
@@ -179,7 +163,7 @@ div p {
     border-radius: 2px;  
 }
 
- .signup-form h2 {
+.signup-form h2 {
     color: #000000;
     margin-left: 235px;
 }
@@ -259,7 +243,7 @@ footer {
 }
 
 
-/*For medium screens sizes from 950px and down */
+/*For samll screens sizes from 950px and down */
 
 @media only screen and (max-width: 950px) {
 #menu {
@@ -279,10 +263,10 @@ footer {
 
   #h2, #p {
     display: inline-block;
-}
+  }
 }
 
-/*For medium screens sizes from 800px and down */
+/*For super small screens sizes from 800px and down */
 
 @media only screen and (max-width: 800px) {
     img {
@@ -291,7 +275,7 @@ footer {
     }
   }
 
-  #menu {
+ /* #menu {
     margin-left: 25px;
     line-height: 25px;
   }
