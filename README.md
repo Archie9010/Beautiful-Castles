@@ -1,11 +1,12 @@
 # Beautiful Castles 
 
-Beautiful Castles website is designed for people who are loooking for informations about Castles around Europe. Webiste contains pictures and shor description of the Castles and historical facts also I've placed reflinks to the Wikipedia under each description for mor information for potetial readers. The site will be targeted toward tourists who are looking for more information regards pleaces that they will be visiting. 
+Welcome to [Beautiful Castles](https://archie9010.github.io/1st-Milestone-project/) website is designed for people who are loooking for informations about Castles around Europe. Webiste contains pictures and shor description of the Castles and historical facts also I've placed reflinks to the Wikipedia under each description for mor information for potetial readers. The site will be targeted toward tourists who are looking for more information regards pleaces that they will be visiting. 
 
 <img src="media/bc_mockup.png">
 <br><br>
 
 <h2>Features</h2>
+
 <ul>
 <li><h3>Navigation Bar</h3>
 <ul>
@@ -15,9 +16,52 @@ Beautiful Castles website is designed for people who are loooking for informatio
 <br>
 <img src="media/bc_menu.png">
 <br><br>
+
 <ul>
-<li><h3>The Page image
-<ul><li>This a photo of castle to allow the user to see what this website is about.
-<li>This section introduces the user to Beautiful Castles with an eye catching photo to focus their attention. 
+<li><h3>The Page image</h3>
+</ul>
+<li>This a photo of castle to allow the user to see what this website is about.</li>
+<li>This section introduces the user to Beautiful Castles with an eye catching photo to focus their attention.</li>
 <br> 
 <img src="media/bc_background_castle.png">
+
+<ul>
+<li><h3>Welcome Text</h3></li>
+<li>
+
+
+<ul>
+<li><h3>Footer<h3><li>
+
+
+<ul>
+<h3>Castles</h3>
+<li>
+</ul>
+
+<ul>
+<li><h3>Contact</h3>
+<li>
+</ul>
+
+<h3>Features left to implement</h3>
+
+
+
+<h2>Testing</h2>
+
+
+<h2>Validator Testing</h2>
+
+
+<h2>Unfixed Bugs</h2>
+
+
+<h2>Deployment</h2>
+
+<h2>Credits</h2>
+
+<h2>Content</h2>
+
+
+<h2>Media</h2>
