@@ -10,14 +10,10 @@ body {
     font-family: Cinzel, sans-serif;
     font-weight: 280;
     color: black;
-    background-image: url(../images/background.jpg);
+    background-color: antiquewhite;
     background-size: auto;
     background-attachment: fixed;
     background-repeat: no-repeat;
-}
-
-#castles {
-    background: rgba(148, 141, 101, 0.39);
 }
 
 /* Headings and Logo */ 
@@ -48,30 +44,28 @@ h3 {
     letter-spacing: 1px;
 }
 
-#menu, #logo {
-    line-height: 75px;
-    margin-top: 10px;
+#menu, 
+#logo {
+    line-height: 55px;
 }
-
 
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 #menu a {
     text-decoration: none;
     color: inherit;
-    
 }
 
 #menu a:hover {
     border-bottom: 1px solid gold;
 }
 
-/* Background Image */
+/* Background castle image */
 
 #background-castle {
     height: 800px;
@@ -93,7 +87,7 @@ h3 {
 }
 
 section p {
-    margin-bottom: 3%;
+    margin-bottom: 5%;
 }
 
 /* Welcome button section two*/
@@ -147,7 +141,7 @@ div p {
     margin-bottom: 3%;
 }
 
-/* contact section signup */
+/* Contact section signup */
 
 .signup-form {
     color: rgb(0, 0, 0);
@@ -175,7 +169,7 @@ div p {
 }
 
 .join-button {
-     margin: auto;
+     
      margin-top: 20px;
      border-radius: 2px;
      padding: 25px 32px 15px 32px;
@@ -212,11 +206,6 @@ footer {
     margin: 1px;
     padding: 5%;
     color: black;
-}
-
-.copyrights {
-    text-align: center;
-    margin-bottom: 10px;
 }
 
 /*For Large screens sizes from 1800px - 2500px */
