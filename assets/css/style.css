@@ -80,7 +80,7 @@ h3 {
     background-position: center center;
     background-size: 103%;
     border-bottom: gold solid 1px;
-    box-shadow: 0 10px 5px  grey;
+    box-shadow: 0 10px 5px grey;
 }
 
 /* Welcome Main text section two  */
@@ -92,36 +92,38 @@ h3 {
     font-size: 1.2rem;
 }
 
+section p {
+    margin-bottom: 3%;
+}
+
 /* Welcome button section two*/
 
 
 #button {
-    color: black;
-    text-align: center;
-    margin-bottom: 10%;
-    font-size: 1.5rem;
-    margin-top: 2%;
-    text-decoration: none;
+    font-size: 1.2rem;
+    border: 2px solid black;
+    padding: 5px 20px;
+    background:rgba(243, 226, 76, 0.664)
 }
-
 
 li a:hover {
     border-bottom: 1px solid gold;  
     border-radius: 10%;
 } 
 
+
+
 /* Castles */
 
 .photo-box {
 	width: 100%;
-	margin-top: 20%;
+	margin-top: 10%;
 	display: inline-block;
-
 }
 
-div a:hover {
-    border-bottom: 1px solid gold;
- }
+div img:hover {
+    box-shadow: 10px 10px 5px grey;
+}
 
 div,
 h2,
@@ -131,21 +133,31 @@ a {
     width: 100%;
     text-decoration: none;
     color: black;
+    margin-top: 20px;
 }
 
 div a {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+    border: 2px solid black;
+    padding: 5px 20px;
+    background:rgba(243, 226, 76, 0.664)
+}
+
+div p {
+    margin-bottom: 3%;
 }
 
 /* contact section signup */
 
 .signup-form {
-    margin: 20% 30% 20% 20%;
     color: rgb(0, 0, 0);
     background-color: rgba(224, 207, 57, 0.514);
     max-width: 90%;
     padding: 70px;
     box-shadow: 10px 10px 5px grey;
+    margin-top: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .text-input {
@@ -209,7 +221,7 @@ footer {
 
 /*For Large screens sizes from 1800px - 2500px */
 @media only screen and (max-width: 2500px) {
-    #background-castle,
+
     #main-text, 
     h2 {
         max-width: 2500px;
@@ -217,6 +229,7 @@ footer {
         margin-right: auto;
     }
 }
+
 
 /*For medium screens sizes from 1200px and down */
 @media only screen and (max-width: 1200px) {
@@ -239,15 +252,10 @@ footer {
          display: none;
      }
      #signup-form {
-         margin-top: 25%;
-         margin-bottom: 25%;
+         max-width: 70%;
      }
-}
 
-#signup-form {
-   padding: 0;
 }
-
 
 /*For samll screens sizes from 950px and down */
 
@@ -259,6 +267,7 @@ footer {
     border: auto;
     line-height: 25px; 
     max-width: 90%;
+    text-align: center;
   }
 
   .img {
@@ -276,11 +285,15 @@ footer {
 /*For super small screens sizes from 800px and down */
 
 @media only screen and (max-width: 800px) {
-    img {
-      width: 135%;
-      margin: 0 auto;
-    }
-  }
+
+ #background-castle {
+     width: 130%;
+     height: 800px;
+ }
+
+ #signup-form {
+    margin-top: 50%;
+}
 
  #menu {
     margin-left: 25px;
@@ -292,17 +305,15 @@ footer {
     margin-bottom: 20px;
   }
 
-  #h2, #p {
+  #h2, 
+  #p {
       word-spacing: 1rem;
       display: inline;
   }
-
-  .signup-form {
-      margin-top: 10% 40% 10% 40%;
-  }
+}
 
   @media only screen and (min-width: 601px) {
     div p {
       font-size: 21px;
   }
-}
+  }
