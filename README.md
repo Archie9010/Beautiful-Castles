@@ -17,9 +17,8 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/1st-Milestone-projec
 <img src="media/menu.png">
 <br><br>
 
-<ul>
+
 <li><h3>The Page image</h3></li>
-</ul>
 <li>This a photo of castle to allow the user to see what this website is about.</li>
 <li>This section introduces the user to Beautiful Castles with an eye catching photo to focus their attention.</li>
 <br> 
@@ -46,14 +45,17 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/1st-Milestone-projec
 <img src="media/sign-up-form.png">
 <ul>
 <li><h3>Footer<h3><li>
+<img src="media/">
 
 
 
+<h2>Testing</h2>
+
+<h3>Bugs
+
+<h3>Validator Testing
+
+<img src="media/performance.png">
 
 
-
-<h3>Features left to implement</h3>
-
-
-
-<h2>Testing<
+<h2>Features left to implement</h2>
