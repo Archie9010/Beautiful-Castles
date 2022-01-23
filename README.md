@@ -19,35 +19,38 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/1st-Milestone-projec
 
 
 <li><h3>The Page image</h3></li>
+<ul>
 <li>This a photo of castle to allow the user to see what this website is about.</li>
 <li>This section introduces the user to Beautiful Castles with an eye catching photo to focus their attention.</li>
+</ul>
 <br> 
 <img src="media/background-castle.png">
 
 
-<h3>Welcome Text</h3>
-<br>
-<li>Short descriptive text welcoming user on the page, Lets's Go button can be found unnderneath the text that will easly navigate user to Castle page. 
+<li><h3>Welcome Text</h3>
+<ul>
+<li>Short descriptive text welcoming user on the page, Lets's Go button can be found unnderneath the text that will easly navigate user to Castle page.</li>
+</ul>
 <img src="media/welcome-text.png">
 
 
+
+<li><h3>Castles</h3>
 <ul>
-<h3>Castles</h3>
 <li>In this section User will find castles within Europe, all categorized for user convenience. User Can find castles by country, by region, or even by the name of the castle. Explore the history of each one and learn about their architecture. Castle Section is built to be interactive, informative, with colorful images to help user make the most informed decision on feauture trips. 
 </ul>
 <img src="media/gallery-castle.png">
 
+<h2>Sign Up form</h2>
 
-<ul>
 <li><h3>Contact</h3>
+<ul>
 <li>Sign up is a section created for users to easily and efficiently create account on our page also to get support and get more information regards website. Sign up form is responsive to all screen sizes.
 </ul>
 <img src="media/sign-up-form.png">
 <ul>
 <li><h3>Footer<h3><li>
 <img src="media/">
-
-
 
 <h2>Testing</h2>
 
