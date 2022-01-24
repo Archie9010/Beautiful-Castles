@@ -55,13 +55,16 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles/) 
 
 <li><h3>Footer<h3><li>
 <ul>
-<li></li>
+<li>The footer section includes social media icons to users can find the website on Facebook, Instagram, Twitter and YouTube</li>
+<li> Copyrights text was added to footer</li>
 </ul>
 <img src="media/footer.png">
+<br>
 
 <h2>Testing</h2>
 
-<h3>Bugs</h3>
+<li><h3>Bugs</h3></li>
+<li>No bugs found</li>
 
 <h3>Validator Testing</h3>
 
