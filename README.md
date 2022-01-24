@@ -62,8 +62,19 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/1st-Milestone-projec
 
 <h3>Bugs
 
-<h3>Validator Testing
-
+<h3>Validator Testing</h3>
+<li>HTML</li>
+<ul>
+<li>No errors were found when passing throught the W3C validator</li>
+</ul>
+<li>Css</li>
+<ul>
+<li>No errors were found when passing throught the (Jigsaw) validator</li>
+</ul>
+<li>Accessability</li>
+<ul>
+<li>
+</ul>
 <img src="media/performance.png">
 
 
