@@ -1,6 +1,6 @@
 # Beautiful Castles 
 
-Welcome to [Beautiful Castles](https://archie9010.github.io/1st-Milestone-project/) website is designed for people who are loooking for informations about Castles around Europe. Webiste contains pictures and shor description of the Castles and historical facts also I've placed reflinks to the Wikipedia under each description for mor information for potetial readers. The site will be targeted toward tourists who are looking for more information regards pleaces that they will be visiting. 
+Welcome to [Beautiful Castles](https://archie9010.github.io/1st-Milestone-project/) A website created with the goal of giving the reader a simple and direct insight to Castles. As most of them are ancient buildings, they are sometimes difficult to visit, so I hope this might be useful for anyone interested in them or just looking to read about them.This website is designed to help people find information about Castles around the Europe. It has pictures and short descriptions of castles, as well as historical facts and external links to other websites for more information.
 
 <img src="media/mockup.png">
 <br><br>
@@ -25,32 +25,38 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/1st-Milestone-projec
 </ul>
 <br> 
 <img src="media/background-castle.png">
-
+<br><br>
 
 <li><h3>Welcome Text</h3>
 <ul>
 <li>Short descriptive text welcoming user on the page, Lets's Go button can be found unnderneath the text that will easly navigate user to Castle page.</li>
 </ul>
+<br>
 <img src="media/welcome-text.png">
-
+<br><br>
 
 
 <li><h3>Castles</h3>
 <ul>
 <li>In this section User will find castles within Europe, all categorized for user convenience. User Can find castles by country, by region, or even by the name of the castle. Explore the history of each one and learn about their architecture. Castle Section is built to be interactive, informative, with colorful images to help user make the most informed decision on feauture trips. 
 </ul>
+<br>
 <img src="media/gallery-castle.png">
 
-<h2>Sign Up form</h2>
+<h2>Contact</h2>
 
-<li><h3>Contact</h3>
-<ul>
+<h3>Sign Up Form</h3>
 <li>Sign up is a section created for users to easily and efficiently create account on our page also to get support and get more information regards website. Sign up form is responsive to all screen sizes.
 </ul>
+<br>
 <img src="media/sign-up-form.png">
-<ul>
+<br>
+
 <li><h3>Footer<h3><li>
-<img src="media/">
+<ul>
+<li></li>
+</ul>
+<img src="media/footer.png">
 
 <h2>Testing</h2>
 
