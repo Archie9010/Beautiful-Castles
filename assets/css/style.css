@@ -235,7 +235,7 @@ footer {
      #h2, #p {
          margin: 0 auto;
          padding: 0;
-         max-width: 1200;
+         max-width: 1200px;
      }
      #hr {
          display: none;
@@ -253,7 +253,6 @@ footer {
     clear: left;
     float: left;
     margin: auto;
-    border: auto;
     line-height: 25px; 
     max-width: 90%;
     text-align: center;

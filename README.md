@@ -53,9 +53,10 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles/) 
 
 * No bugs found
 
+### 
+
 
 ### Validator Testing
-
 
 #### HTML
 
@@ -86,6 +87,10 @@ Live link: [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles/)
 
 ## Features left to implement
 
+* Search bar
+* Live Chat
+* Blog 
+
 ## Credits
 
 * The code to build sign up form was taken from I Love Running Project</li>
@@ -98,13 +103,13 @@ Live link: [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles/)
 
 ### Media
 
-* The fonts used were imported from Google Fonts
-* The icon in the header, footer were taken from Font Awesomne
-* Backgroun Castle picture on the main page were taken from pexele
-* All images in Castle section were downloaded from Wikipedia
+* The fonts used were imported from [Google Fonts](https://fonts.google.com/)
+* The icon in the header, footer were taken from [Font Awesomne](https://fontawesome.com/)
+* Backgroun Castle picture on the main page were taken from [pexels](https://www.pexels.com/)
+* All images in Castle section were downloaded from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 
 ### Code
 
-* Code on how to do the sadow-box came from information on : W3Schools
+* Code on how to do the sadow-box used on pictures in gallery came from information on : [W3Schools](https://www.w3schools.com/css/css3_shadows_box.asp)
 * Code on how to create sig up box was based on CI Love Running Project
 
