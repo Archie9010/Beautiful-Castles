@@ -1,273 +1,294 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Lato:wght@300&display=swap');
 
 * {
-    border: none;
-    margin: 0;
-    padding: 0;
+  border: none;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    font-family: Cinzel, sans-serif;
-    font-weight: 280;
-    color: black;
-    background-color: antiquewhite;
-    background-size: auto;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
+  font-family: Cinzel, sans-serif;
+  font-weight: 280;
+  color: black;
+  background-color: antiquewhite;
+  background-size: auto;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
-/* Headings and Logo */ 
+/* Headings and Logo */
 
 h1,
 h2,
 h3 {
-    font-family: Cinzel, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    color: black;
-    text-decoration: none;
-    margin: 5%;
+  font-family: Cinzel, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: black;
+  text-decoration: none;
+  margin: 5%;
 }
 
 #logo {
-    float: left;
-    padding-bottom: 0px;
-    margin-top: 0px;
-    margin-left: 10px;
-    margin-bottom: 0px;
+  float: left;
+  padding-bottom: 0px;
+  margin-top: 0px;
+  margin-left: 10px;
+  margin-bottom: 0px;
 }
 
 /* Navigation links */
 
 #menu {
-    font-size: 1.2rem;
-    letter-spacing: 1px;
+  font-size: 1.2rem;
+  letter-spacing: 1px;
 }
 
-#menu, 
+#menu,
 #logo {
-    line-height: 55px;
+  line-height: 55px;
 }
 
 #menu li {
-    float: right;
-    list-style-type: none;
-    margin-right: 30px;
-    margin-top: 5px;
+  float: right;
+  list-style-type: none;
+  margin-right: 30px;
+  margin-top: 5px;
 }
 
 #menu a {
-    text-decoration: none;
-    color: inherit;
+  text-decoration: none;
+  color: inherit;
 }
 
 #menu a:hover {
-    border-bottom: 1px solid gold;
+  border-bottom: 1px solid gold;
 }
 
 /* Background castle image */
 
 #background-castle {
-    height: 800px;
-    width: 100%;
-    background: url('../images/background-castle.png') no-repeat;
-    background-position: center center;
-    background-size: 103%;
-    border-bottom: gold solid 1px;
-    box-shadow: 0 10px 5px grey;
+  height: 800px;
+  width: 100%;
+  background: url('../images/background-castle.png') no-repeat;
+  background-position: center center;
+  background-size: 103%;
+  border-bottom: gold solid 1px;
+  box-shadow: 0 10px 5px grey;
 }
 
 /* Welcome Main text section two  */
 
 #main-text {
-    color: black;
-    text-align: center;
-    margin-top: 10%;
-    font-size: 1.2rem;
+  color: black;
+  text-align: center;
+  margin-top: 10%;
+  font-size: 1.2rem;
 }
 
 section p {
-    margin-bottom: 5%;
+  margin-bottom: 5%;
 }
 
 /* Welcome button section two*/
 
 
 #button {
-    font-size: 1.2rem;
-    border: 2px solid black;
-    padding: 5px 20px;
-    background:rgba(243, 226, 76, 0.664)
+  font-size: 1.2rem;
+  border: 2px solid black;
+  padding: 5px 20px;
+  background: rgba(243, 226, 76, 0.664)
 }
 
 li a:hover {
-    border-bottom: 1px solid gold;  
-    border-radius: 10%;
-} 
+  border-bottom: 1px solid gold;
+  border-radius: 10%;
+}
 
 
 
 /* Castles */
 
 .photo-box {
-	width: 100%;
-	margin-top: 10%;
-	display: inline-block;
+  width: 100%;
+  margin-top: 10%;
+  display: inline-block;
 }
 
 div img:hover {
-    box-shadow: 10px 10px 5px grey;
+  box-shadow: 10px 10px 5px grey;
 }
 
 div,
 h2,
 p,
 a {
-    text-align: center;
-    width: 100%;
-    text-decoration: none;
-    color: black;
-    margin-top: 20px;
+  text-align: center;
+  width: 100%;
+  text-decoration: none;
+  color: black;
+  margin-top: 20px;
 }
 
 div a {
-    font-size: 1.2rem;
-    border: 2px solid black;
-    padding: 5px 20px;
-    background:rgba(243, 226, 76, 0.664)
+  font-size: 1.2rem;
+  border: 2px solid black;
+  padding: 5px 20px;
+  background: rgba(243, 226, 76, 0.664)
 }
 
 div p {
-    margin-bottom: 3%;
+  margin-bottom: 3%;
 }
 
 /* Contact section signup */
 
 .signup-form {
-    color: rgb(0, 0, 0);
-    background-color: rgba(224, 207, 57, 0.514);
-    max-width: 90%;
-    padding: 70px;
-    box-shadow: 10px 10px 5px grey;
-    margin-top: 30%;
-    margin-left: 10%;
-    margin-right: 10%;
+  color: rgb(0, 0, 0);
+  background-color: rgba(224, 207, 57, 0.514);
+  max-width: 30%;
+  padding: 70px;
+  box-shadow: 10px 10px 5px grey;
+  margin-top: 100px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .text-input {
-    color: #000000;
-    width: 100%;
-    height: 25px;
-    border-radius: 2px; 
-    margin: auto;
+  color: #000000;
+  width: 100%;
+  height: 25px;
+  border-radius: 2px;
+  margin: auto;
 }
 
 .signup-form h2 {
-    color: #000000;
-    margin: auto;
-    margin-bottom: 20px;
+  color: #000000;
+  margin: auto;
+  margin-bottom: 20px;
 }
 
 .join-button {
-     
-     margin-top: 20px;
-     border-radius: 2px;
-     padding: 25px 32px 15px 32px;
-     text-align: center;
-     font-size: 100%;
-     background-color: #000000;
-     color: #fafafa;
-     display: block;
- }
- 
+  margin-top: 20px;
+  border-radius: 2px;
+  padding: 25px 32px 15px 32px;
+  text-align: center;
+  font-size: 100%;
+  background-color: #000000;
+  color: #fafafa;
+  display: block;
+}
+
 .join-button:hover {
-     color: #000000;
-     background-color: #fafafa;
- }
+  color: #000000;
+  background-color: #fafafa;
+}
 
 
 /* footer */
 
 footer {
-    height: 150px;
-    margin-top: 10%;
+  height: 150px;
+  margin-top: 10%;
 }
 
 .social-networks {
-    text-align: center;
+  text-align: center;
 }
 
-.social-networks > li {
-    display: inline;
+.social-networks>li {
+  display: inline;
 }
 
 .social-networks i {
-    font-size: 2rem;
-    margin: 1px;
-    padding: 5%;
-    color: black;
+  font-size: 2rem;
+  margin: 1px;
+  padding: 5%;
+  color: black;
 }
 
 /*For Large screens sizes from 1800px - 2500px */
 @media only screen and (max-width: 2500px) {
 
-    #main-text, 
-    h2, 
-    p {
-        max-width: 2500px;
-        margin-left: auto;
-        margin-right: auto;
-    }
+  #main-text,
+  h2,
+  p {
+    max-width: 2500px;
+    margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  div,
+  h2,
+  p,
+  a {
+    max-width: 2500px;
+    width: 100%;
+    text-decoration: none;
+  }
 }
 
 
 /*For medium screens sizes from 1200px and down */
 @media only screen and (max-width: 1200px) {
-     #background-castle {
-         width: 100%;
-         height: 1200px;
-         margin: 0 auto;
-     }
-     #img {
-         clear: both;
-         width: 100%;
-         padding: 0;
-     }
-     #h2, #p {
-         margin: 0 auto;
-         padding: 0;
-         max-width: 1200px;
-     }
-     #hr {
-         display: none;
-     }
-     #signup-form {
-         max-width: 70%;
-     }
+  #background-castle {
+    width: 100%;
+    height: 1200px;
+    margin: 0 auto;
+  }
+
+  #img {
+    clear: both;
+    width: 100%;
+    padding: 0;
+  }
+
+  #h2,
+  #p {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1200px;
+  }
+
+  #hr {
+    display: none;
+  }
+
+  #signup-form {
+    max-width: 100%;
+    margin-top: 30%;
+  }
 
 }
 
 /*For samll screens sizes from 950px and down */
 
 @media only screen and (max-width: 950px) {
-#menu {
+  #menu {
     clear: left;
     float: left;
     margin: auto;
-    line-height: 25px; 
+    line-height: 25px;
     max-width: 90%;
     text-align: center;
   }
 
   .img {
-      max-width: 90%;
-      width: auto;
-      padding: 0;
-      margin: 0;
+    max-width: 90%;
+    width: auto;
+    padding: 0;
+    margin: 0;
   }
 
-  #h2, #p {
+  #h2,
+  #p {
     display: inline-block;
+  }
+
+  .signup-form {
+    max-width: 70%;
+    margin-top: 30%;
   }
 }
 
@@ -275,16 +296,17 @@ footer {
 
 @media only screen and (max-width: 800px) {
 
- #background-castle {
-     width: 130%;
-     height: 800px;
- }
+  #background-castle {
+    width: 130%;
+    height: 800px;
+  }
 
- #signup-form {
-    margin-top: 50%;
-}
+  .signup-form {
+    margin-top: 40%;
+    max-width: 100%;
+  }
 
- #menu {
+  #menu {
     margin-left: 25px;
     line-height: 25px;
   }
@@ -294,15 +316,15 @@ footer {
     margin-bottom: 20px;
   }
 
-  #h2, 
+  #h2,
   #p {
-      word-spacing: 1rem;
-      display: inline;
+    word-spacing: 1rem;
+    display: inline;
   }
 }
 
-  @media only screen and (min-width: 601px) {
-    div p {
-      font-size: 21px;
+@media only screen and (min-width: 601px) {
+  div p {
+    font-size: 21px;
   }
-  }
+}
