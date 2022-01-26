@@ -212,7 +212,8 @@ footer {
 @media only screen and (max-width: 2500px) {
 
     #main-text, 
-    h2 {
+    h2, 
+    p {
         max-width: 2500px;
         margin-left: auto;
         margin-right: auto;

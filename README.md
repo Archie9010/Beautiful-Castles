@@ -72,9 +72,11 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles) A
 
 * HTML
   - No errors were found when passing throught the [W3C validator](https://validator.w3.org/)
+![html-test](media/html-test.png)
 
 * CSS
   - No errors were found when passing through the [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
+  ![css-test](media/css-test.png)
 
 * Accessibility
   - Colors and fonts chosen are easy to read and accessible by running it through lighthouse in dev tools.
@@ -88,10 +90,10 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles) A
 ## Deployment
 
 * The site was deployed to GitHub pages. The steps to deploy are followed:
-* Logged into GitHub
-* In the GitHub repository, navigate to the Settings tab.
-* From the drop-down menu, select the Main Branch
-* Once the Main branch has been selected, the page provided the link to the completed website.
+  - Logged into GitHub
+  - In the GitHub repository, navigate to the Settings tab.
+  - From the drop-down menu, select the Main Branch
+  - Once the Main branch has been selected, the page provided the link to the completed website.
 
 Live link: [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles/)
 
@@ -111,14 +113,14 @@ Live link: [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles/)
 
 ### Content
 
-* All description text of the Castles were taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page))
+* All description text of the Castles were taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 * All other content was written by the developer
 
 ### Media
 
 * The fonts used were imported from [Google Fonts](https://fonts.google.com/)
 * The icon in the header, footer were taken from [Font Awesomne](https://fontawesome.com/)
-* Background Castle picture on the main page were taken from [pexels](https://www.pexels.com/)
+* Background Castle picture on the main page were taken from [Pexels](https://www.pexels.com/)
 * All images in Castle section were downloaded from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 
 ### Code
