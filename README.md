@@ -79,7 +79,11 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles) A
 * Accessibility
   - Colors and fonts chosen are easy to read and accessible by running it through lighthouse in dev tools.
 
-<img src="media/performance.png">
+![performance01](media/performance01.png)
+
+### Metrics
+
+![performance02](media/performance02.png)
 
 ## Deployment
 
@@ -107,7 +111,7 @@ Live link: [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles/)
 
 ### Content
 
-* All description text of the Castles were taken from Wikipedia
+* All description text of the Castles were taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page))
 * All other content was written by the developer
 
 ### Media
