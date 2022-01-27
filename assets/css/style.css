@@ -275,7 +275,6 @@ footer {
     float: left;
     margin: auto;
     line-height: 25px;
-    max-width: 90%;
     text-align: center;
   }
 
@@ -305,8 +304,8 @@ footer {
 @media only screen and (max-width: 800px) {
 
   #background-castle {
-    width: 130%;
-    height: 800px;
+    width: 100%;
+    height: 450px;
   }
 
   .signup-form {
@@ -320,8 +319,9 @@ footer {
   }
 
   #menu {
-    margin-left: 25px;
-    line-height: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
   }
 
   #logo {
@@ -333,6 +333,13 @@ footer {
   #p {
     word-spacing: 1rem;
     display: inline;
+  }
+
+  div img {
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
   }
 }
 

@@ -65,6 +65,22 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles) A
 
 ## Testing
 
+### Functionality
+
+
+|Test Label           | Test Action      |Expected Outcome | Test Outcome
+|:--------------------|:-----------------|:-----------------|:------------
+| Menu responsiveness | Navigate to the 
+                      | game page     |                  |
+
+
+### Browser Compatibility
+
+* Chrome (97) - Pass
+* firefox (96) - Pass 
+* Safari (15.2)- Pass 
+* Edge (97) - Pass 
+
 ### Bugs
 
 * No bugs found
