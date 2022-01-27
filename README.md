@@ -67,11 +67,14 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles) A
 
 ### Functionality
 
-
-|Test Label           | Test Action      |Expected Outcome | Test Outcome
-|:--------------------|:-----------------|:-----------------|:------------
-| Menu responsiveness | Navigate to the 
-                      | game page     |                  |
+   
+| Test Label         |             Test Action          |         Expected Outcome           | Test Outcome    |
+|:------------------ |:---------------------------------|:-----------------------------------|:----------------|
+| Menu Test          |  Responsive navigation bar       | Navigate to desired page.          | PASS            |
+| Website buttons    |  Responsive button               | Navigate to external websites      | PASS            |
+| Sign Up button     |  Responsive Sign Up button       | Navigates to dump sever            | PASS            |
+| Let's go button    |  Responsive Let's go button      | Navigates to gallery               | PASS            |
+| Social media icons |  Responsive Social media icons   | Navigates to social media websites | PASS            |
 
 
 ### Browser Compatibility
