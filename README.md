@@ -68,11 +68,11 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles) A
 ### Functionality
 
    
-| Test Label         |             Test Action          |         Expected Outcome           | Test Outcome    |
+| Test Label         |            Test Action           |         Expected Outcome           | Test Outcome    |
 |:------------------ |:---------------------------------|:-----------------------------------|:----------------|
 | Menu Test          |  Responsive navigation bar       | Navigate to the desired page.      | PASS            |
 | Website buttons    |  Responsive button               | Navigate to external websites      | PASS            |
-| Sign Up button     |  Responsive Sign-Up button       | Navigates to dump sever            | PASS            |
+| Sign-Up button     |  Responsive Sign-Up button       | Navigates to dump sever            | PASS            |
 | Let's go button    |  Responsive Let's go button      | Navigates to gallery               | PASS            |
 | Social media icons |  Responsive Social media icons   | Navigate to social media websites  | PASS            |
 
@@ -87,7 +87,6 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles) A
 ### Bugs
 
 * No bugs found
-
 
 ### Validator Testing
 
@@ -117,11 +116,11 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles) A
 * Open a GitBash terminal and navigate to the directory where you want to locate the clone
 * On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process
 
-* The site was deployed to GitHub pages. The steps to deploy are followed:
-  - Logged into GitHub
-  - In the GitHub repository, navigate to the Settings tab.
-  - From the drop-down menu, select the Main Branch
-  - Once the Main branch has been selected, the page provided the link to the completed website.
+The site was deployed to GitHub pages. The steps to deploy are followed:
+* Logged into GitHub
+* In the GitHub repository, navigate to the Settings tab.
+* From the drop-down menu, select the Main Branch
+* Once the Main branch has been selected, the page provided the link to the completed website.
 
 Live link: [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles/)
 

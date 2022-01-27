@@ -19,7 +19,6 @@ body {
 }
 
 /* Headings and Logo */
-
 h1,
 h2,
 h3 {
@@ -40,7 +39,6 @@ h3 {
 }
 
 /* Navigation links */
-
 #menu {
   font-size: 1.2rem;
   letter-spacing: 1px;
@@ -68,7 +66,6 @@ h3 {
 }
 
 /* Background castle image */
-
 #background-castle {
   height: 800px;
   width: 100%;
@@ -80,7 +77,6 @@ h3 {
 }
 
 /* Welcome Main text section two  */
-
 #main-text {
   color: black;
   text-align: center;
@@ -93,8 +89,6 @@ section p {
 }
 
 /* Welcome button section two*/
-
-
 #button {
   font-size: 1.2rem;
   border: 2px solid black;
@@ -108,14 +102,13 @@ li a:hover {
 }
 
 /* Castles */
-
 .photo-box {
   width: 100%;
   margin-top: 30px;
   display: inline-block;
 }
 
-.photo-box > img {
+.photo-box>img {
   display: inline-block;
 }
 
@@ -144,7 +137,6 @@ div p {
 }
 
 /* Contact section signup */
-
 .signup-form {
   color: rgb(0, 0, 0);
   background-color: rgba(224, 207, 57, 0.514);
@@ -187,7 +179,6 @@ div p {
 }
 
 /* footer */
-
 footer {
   height: 150px;
   margin-top: 10%;
@@ -268,7 +259,6 @@ footer {
 }
 
 /*For samll screens sizes from 950px and down */
-
 @media only screen and (max-width: 950px) {
   #menu {
     clear: left;
@@ -300,9 +290,7 @@ footer {
 }
 
 /*For super small screens sizes from 800px and down */
-
 @media only screen and (max-width: 800px) {
-
   #background-castle {
     width: 100%;
     height: 450px;
@@ -336,9 +324,9 @@ footer {
   }
 
   div img {
-    height: auto; 
-    width: auto; 
-    max-width: 300px; 
+    height: auto;
+    width: auto;
+    max-width: 300px;
     max-height: 300px;
   }
 }
