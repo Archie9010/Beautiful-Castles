@@ -5,17 +5,19 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles) A
 ![mockup](media/mockup.png)
 
 ## Index 
-* [Languages Used](#languages-used)
+* [Technologies Used](#technologies-used)
 * [Fearures](#features)
 * [Contact](#contacts)
 * [Testing](#testing)
 * [Deployment](#deployment)
 * [Credits](#credits)
 
-## Languages Used
+## Technologies Used
 
  * [HTML5](https://en.wikipedia.org/wiki/HTML5)
  * [CSS3](https://en.wikipedia.org/wiki/CSS)
+ * [Git](https://en.wikipedia.org/wiki/Git) 
+ * [Github](https://en.wikipedia.org/wiki/GitHub) 
 
 ## Features
 
