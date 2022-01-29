@@ -19,6 +19,13 @@ Welcome to [Beautiful Castles](https://archie9010.github.io/Beautiful-Castles) A
  * [Git](https://en.wikipedia.org/wiki/Git) 
  * [Github](https://en.wikipedia.org/wiki/GitHub) 
 
+ ## Wireframe
+The wireframe model is created as part of the project planning. Its task is to graphically present the appearance of the application on three different devices: computer - high resolution, tablet - medium resolution, mobile - low resolution. The application will be built on the basis of the created sketch.
+
+![home](media/wireframe-home.png)
+![castles](media/wireframe-castles.png)
+![sign-up](media/wireframe-sign-up.png)
+
 ## Features
 
 ### Navigation Bar
